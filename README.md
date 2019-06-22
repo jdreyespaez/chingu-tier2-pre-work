@@ -1,1 +1,2 @@
-# chingu-tier2-pre-work
+# Chingu Pre-Work Tier
+My exercise to enter Voyage 10.
